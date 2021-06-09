@@ -1,4 +1,4 @@
 "In Package","Blocking Type","Source Component Label","Source Component Name","Source Component Type","Target Component Label","Target Component Name","Target Component Type","Target Sub Component Name","Target Sub Component Type"
+"false","block__sys","vSDK UDM Example","vsdk_udm_example__c","Object","Connection","connection__sys","Object","",""
 "false","block__sys","vSDK UDM Example","vsdk_udm_example__c","Object","Default Status","default_status__v","Picklist","",""
 "false","ignore__sys","vSDK UDM Example","vsdk_udm_example__c","Object","Base vSDK UDM Example","vsdk_udm_example__c.base__v","Objecttype","",""
-"false","block__sys","vSDK UDM Example","vsdk_udm_example__c","Object","Connection","connection__sys","Object","",""

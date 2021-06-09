@@ -7,7 +7,7 @@
  * Description:	This code provides examples of a common use case
  * 				for a User-Defined Model (UDM): Custom SDK Settings.
  * 				When records are inserted or updated in a custom
- * 				object, vsdk_user_defined_model_object__c, this code will load
+ * 				object, vsdk_udm_example__c, this code loads
  * 				local and remote settings from a custom object,
  * 				vsdk_setting__c, where settings are stored as JSON.
  *---------------------------------------------------------------------
