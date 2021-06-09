@@ -1,0 +1,13 @@
+<vaultpackage xmlns="https://veevavault.com/">
+    <name>PKG-vsdk-user-defined-model-sample-components</name>
+    <source>
+        <vault></vault>
+        <author>Vault Developer Support</author>
+    </source>
+    <packagetype>migration__v</packagetype>
+    <summary>The vsdk-user-defined-model-sample project sample components.</summary>
+    <description>This VPK contains the components for the vsdk-user-defined-model-sample project.</description>
+    <javasdk>
+        <deployment_option>incremental</deployment_option>
+    </javasdk>
+</vaultpackage>
